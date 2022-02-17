@@ -1,0 +1,14 @@
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.exe
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.deps.json
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.json
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.dev.json
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.dll
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.pdb
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.AssemblyReference.cache
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfoInputs.cache
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfo.cs
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.CoreCompileInputs.cache
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.dll
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.pdb
+C:\Blabz\RFP\LineComparisonProgram\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.genruntimeconfig.cache
